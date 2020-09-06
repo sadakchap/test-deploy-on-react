@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn to Deploy with CD on Netlify
+          Is this updating itself????
         </a>
       </header>
     </div>
